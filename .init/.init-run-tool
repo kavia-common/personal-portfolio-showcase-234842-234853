@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port> -H <host>",
+    "working_directory": "/tmp/kavia/workspace/code-generation/personal-portfolio-showcase-234842-234853/portfolio_frontend"
+}
