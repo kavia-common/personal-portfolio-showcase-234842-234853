@@ -12,7 +12,7 @@ export default function Home(): JSX.Element {
       <Navbar />
 
       {/* Offset the fixed navbar height */}
-      <main className="pt-16">
+      <main id="main-content" className="pt-16" tabIndex={-1}>
         <HomeSection />
         <ProjectsSection />
         <AboutSection />
